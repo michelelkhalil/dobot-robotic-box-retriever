@@ -2,6 +2,14 @@
 
 Arduino-controlled robotic box retrieval system using a **Dobot Magician** robotic arm and an **Arduino UNO**. Three push buttons select one of three predefined storage locations, after which the robot performs an automated pick-and-place sequence to move the selected wooden block to a common drop-off area.
 
+## 🎥 Project Demonstration
+
+The GIF below shows the completed robotic box retrieval system in operation. The Dobot follows the programmed movement sequence to approach the selected block, pick it up, transport it across the workspace, and release it at the designated drop-off area.
+
+<p align="center">
+  <img src="assets/demo/box-retrieval-demo.gif" alt="Dobot Robotic Box Retriever Demonstration" width="700">
+</p>
+
 ## Project Overview
 
 Developed for the **ELEE1144 Group Project**, this project demonstrates robotics, embedded programming and hardware integration. Each button corresponds to a different block location. The Arduino reads the selected input and sends a predefined sequence of command frames to the Dobot for pickup, transport and release.
