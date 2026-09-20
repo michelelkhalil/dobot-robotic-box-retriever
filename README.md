@@ -7,7 +7,7 @@ Arduino-controlled robotic box retrieval system using a **Dobot Magician** robot
 The GIF below shows the completed robotic box retrieval system in operation. The Dobot follows the programmed movement sequence to approach the selected block, pick it up, transport it across the workspace, and release it at the designated drop-off area.
 
 <p align="center">
-  <img src="assets/box-retrieval-demo.gif" alt="Dobot Robotic Box Retriever Demonstration" width="700">
+  <img src="assets/images/box-retrieval-demo.gif" alt="Dobot Robotic Box Retriever Demonstration" width="700">
 </p>
 
 ## Project Overview
